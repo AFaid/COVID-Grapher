@@ -1,4 +1,4 @@
-#COVID graph
+#COVID-Grapher
 
 Individual assignment for CS3307. The program collects data from a csv file containing statistics about the effect of covid on countries and displays that data sorted based on parameters inserted by the user.
 
